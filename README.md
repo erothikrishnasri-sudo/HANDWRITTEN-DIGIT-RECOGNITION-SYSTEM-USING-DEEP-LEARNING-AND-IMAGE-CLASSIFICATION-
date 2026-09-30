@@ -1,0 +1,2 @@
+# HANDWRITTEN-DIGIT-RECOGNITION-SYSTEM-USING-DEEP-LEARNING-AND-IMAGE-CLASSIFICATION-
+EXECUTIVE SUMMARY This internship report provides a comprehensive overview of my internship focused on developing a Handwritten Digit Recognition System using Deep Learning and Image Classification Techniques. The internship spanned an 8-week period and was undertaken to apply Convolutional Neural Networks (CNNs) to computer vision challenges.
